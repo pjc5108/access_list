@@ -9,3 +9,5 @@ class Name extends React.component{
     );
   }
 }
+
+// the name of a worker.

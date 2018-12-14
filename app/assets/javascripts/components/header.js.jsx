@@ -9,3 +9,5 @@ class Header extends React.component{
     );
   }
 }
+
+//shows some vigor info and the user logged in.

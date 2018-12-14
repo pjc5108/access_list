@@ -10,4 +10,4 @@ class ProjectDetails extends React.component{
   }
 }
 
-//contains projectInfo component at the top, and projectAccessDetails below it.
+//contains projectInfo component at the top, and accessDetails below it.
