@@ -9,3 +9,5 @@ class SubPartition extends React.component{
     );
   }
 }
+
+//containes the names of each worker for a subcontractor.

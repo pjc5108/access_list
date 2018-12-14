@@ -9,3 +9,5 @@ class AccessList extends React.component{
     );
   }
 }
+
+// this component contains the sub partition component/s which organizes members by subcontractor.
